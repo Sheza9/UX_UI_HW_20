@@ -1,0 +1,49 @@
+.navbar{background-color: white;
+}
+
+
+.lead{margin: 40px;
+}
+
+
+.jumbotron{
+    height: 100vh;
+    background-color:white;
+    background-repeat: none;
+    background-image: url(../images/dog2.jpeg);
+    background-size: 100vh;
+    background-size: 100vmax;
+}
+
+.text1{
+    padding: 16px;
+    margin: 16px;
+    text-align: left;
+    
+    }
+.row{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+h1{
+    padding: 25px;
+    margin: 25px;
+    color: white;
+}
+.proOver {
+    background-size: 100vh;
+    background-color: #272725;
+}
+.text2{
+    color: white;
+}
+.imgagePro{
+    ;
+}
+
+.img-fluid{
+    padding: 50px;
+    margin: 
+}
